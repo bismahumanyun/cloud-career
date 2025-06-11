@@ -1,0 +1,58 @@
+[
+  {
+    "id": "app-001",
+    "applicant": "john.smith",
+    "job": "job-001",
+    "applicationDate": "2024-01-15T09:30:00Z",
+    "timeStamp": "2024-01-15T09:30:00Z"
+  },
+  {
+    "id": "app-002",
+    "applicant": "john.smith",
+    "job": "job-002",
+    "applicationDate": "2024-01-20T14:15:00Z",
+    "timeStamp": "2024-01-20T14:15:00Z"
+  },
+  {
+    "id": "app-003",
+    "applicant": "jane.doe",
+    "job": "job-001",
+    "applicationDate": "2024-01-12T11:45:00Z",
+    "timeStamp": "2024-01-12T11:45:00Z"
+  },
+  {
+    "id": "app-004",
+    "applicant": "jane.doe",
+    "job": "job-003",
+    "applicationDate": "2024-01-18T16:20:00Z",
+    "timeStamp": "2024-01-18T16:20:00Z"
+  },
+  {
+    "id": "app-005",
+    "applicant": "jane.doe",
+    "job": "job-004",
+    "applicationDate": "2024-01-25T10:00:00Z",
+    "timeStamp": "2024-01-25T10:00:00Z"
+  },
+  {
+    "id": "app-006",
+    "applicant": "mike.wilson",
+    "job": "job-002",
+    "applicationDate": "2024-01-14T13:30:00Z",
+    "timeStamp": "2024-01-14T13:30:00Z"
+  },
+  {
+    "id": "app-007",
+    "applicant": "mike.wilson",
+    "job": "job-004",
+    "applicationDate": "2024-01-22T08:45:00Z",
+    "timeStamp": "2024-01-22T08:45:00Z"
+  },
+  {
+    "id": "app-008",
+    "applicant": "john.smith",
+    "job": "job-004",
+    "applicationDate": "2023-11-15T12:00:00Z",
+    "timeStamp": "2023-11-15T12:00:00Z"
+  }
+]

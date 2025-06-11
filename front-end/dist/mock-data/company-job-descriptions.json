@@ -1,0 +1,30 @@
+[
+  {
+    "id": "jd-001",
+    "job": "job-001",
+    "jobName": "Senior Software Engineer",
+    "jobDescriptions": "We are seeking a highly skilled Senior Software Engineer to join our dynamic development team. The ideal candidate will have extensive experience in full-stack development with modern technologies including React, Node.js, and cloud platforms. Responsibilities include: designing and implementing scalable software solutions, mentoring junior developers, collaborating with cross-functional teams, and ensuring code quality through reviews and testing. Requirements: 5+ years of software development experience, proficiency in JavaScript/TypeScript, experience with agile methodologies, strong problem-solving skills, and excellent communication abilities.",
+    "timeStamp": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "jd-002",
+    "job": "job-002",
+    "jobName": "Data Scientist",
+    "jobDescriptions": "Join our data science team to drive insights and innovation through advanced analytics. This role involves developing machine learning models, analyzing large datasets, and presenting findings to stakeholders. Key responsibilities include: building predictive models using Python/R, working with big data technologies (Spark, Hadoop), creating data visualizations, and collaborating with product teams to implement data-driven solutions. Requirements: PhD or Master's in Data Science/Statistics/Computer Science, 3+ years of experience in machine learning, proficiency in Python/R, experience with SQL and NoSQL databases, strong statistical analysis skills.",
+    "timeStamp": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "jd-003",
+    "job": "job-003",
+    "jobName": "Product Manager",
+    "jobDescriptions": "Lead product strategy and development for our innovative technology platform. This role requires a strategic thinker who can bridge technical and business requirements. Responsibilities include: defining product roadmaps, conducting market research, working with engineering teams on feature development, analyzing user feedback and metrics, and coordinating product launches. The ideal candidate will have: 4+ years of product management experience, strong analytical skills, experience with agile development, excellent communication and leadership abilities, and a track record of successful product launches.",
+    "timeStamp": "2024-01-15T14:15:00Z"
+  },
+  {
+    "id": "jd-004",
+    "job": "job-004",
+    "jobName": "UX Designer",
+    "jobDescriptions": "Create exceptional user experiences for our digital products. This position involves conducting user research, designing intuitive interfaces, and collaborating with development teams to implement designs. Key responsibilities include: creating wireframes and prototypes, conducting usability testing, developing design systems, collaborating with product managers and developers, and staying current with design trends. Requirements: 3+ years of UX/UI design experience, proficiency in design tools (Figma, Sketch, Adobe Creative Suite), experience with user research methodologies, strong portfolio demonstrating design process, and knowledge of front-end development principles.",
+    "timeStamp": "2024-01-18T09:45:00Z"
+  }
+]

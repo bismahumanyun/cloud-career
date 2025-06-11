@@ -1,0 +1,52 @@
+[
+  {
+    "id": "loc-001",
+    "company": "company-tech-corp",
+    "countryCode": "US",
+    "stateProvinceCode": "CA",
+    "streetAddress": "1600 Amphitheatre Parkway",
+    "cityTown": "Mountain View",
+    "zipPostalCode": "94043",
+    "timeStamp": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "loc-002",
+    "company": "company-tech-corp",
+    "countryCode": "US",
+    "stateProvinceCode": "NY",
+    "streetAddress": "111 8th Avenue",
+    "cityTown": "New York",
+    "zipPostalCode": "10011",
+    "timeStamp": "2024-01-10T08:15:00Z"
+  },
+  {
+    "id": "loc-003",
+    "company": "company-startup-inc",
+    "countryCode": "US",
+    "stateProvinceCode": "CA",
+    "streetAddress": "1 Hacker Way",
+    "cityTown": "Menlo Park",
+    "zipPostalCode": "94025",
+    "timeStamp": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "loc-004",
+    "company": "company-global-solutions",
+    "countryCode": "CA",
+    "stateProvinceCode": "ON",
+    "streetAddress": "100 King Street West",
+    "cityTown": "Toronto",
+    "zipPostalCode": "M5X 1C7",
+    "timeStamp": "2024-01-15T14:15:00Z"
+  },
+  {
+    "id": "loc-005",
+    "company": "company-innovate-labs",
+    "countryCode": "GB",
+    "stateProvinceCode": null,
+    "streetAddress": "6 Pancras Square",
+    "cityTown": "London",
+    "zipPostalCode": "N1C 4AG",
+    "timeStamp": "2024-01-18T09:45:00Z"
+  }
+]

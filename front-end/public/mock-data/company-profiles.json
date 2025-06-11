@@ -1,0 +1,47 @@
+[
+  {
+    "id": "company-tech-corp",
+    "registrationDate": "2020-03-15T00:00:00Z",
+    "companyWebsite": "https://www.techcorp.com",
+    "contactPhone": "+1 (555) 123-4567",
+    "contactName": "Sarah Johnson",
+    "companyLogo": "https://via.placeholder.com/200x100?text=TechCorp",
+    "timeStamp": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "company-startup-inc",
+    "registrationDate": "2021-08-20T00:00:00Z",
+    "companyWebsite": "https://www.startupinc.io",
+    "contactPhone": "+1 (555) 987-6543",
+    "contactName": "Michael Chen",
+    "companyLogo": "https://via.placeholder.com/200x100?text=StartupInc",
+    "timeStamp": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "company-global-solutions",
+    "registrationDate": "2019-11-05T00:00:00Z",
+    "companyWebsite": "https://www.globalsolutions.net",
+    "contactPhone": "+1 (555) 456-7890",
+    "contactName": "Emily Rodriguez",
+    "companyLogo": null,
+    "timeStamp": "2024-01-15T14:15:00Z"
+  },
+  {
+    "id": "company-innovate-labs",
+    "registrationDate": "2022-01-10T00:00:00Z",
+    "companyWebsite": "https://www.innovatelabs.com",
+    "contactPhone": "+1 (555) 321-0987",
+    "contactName": "David Park",
+    "companyLogo": "https://via.placeholder.com/200x100?text=InnovateLabs",
+    "timeStamp": "2024-01-18T09:45:00Z"
+  },
+  {
+    "id": "company-future-tech",
+    "registrationDate": "2023-06-01T00:00:00Z",
+    "companyWebsite": "https://www.futuretech.ai",
+    "contactPhone": null,
+    "contactName": "Lisa Wang",
+    "companyLogo": "https://via.placeholder.com/200x100?text=FutureTech",
+    "timeStamp": "2024-01-20T16:20:00Z"
+  }
+]

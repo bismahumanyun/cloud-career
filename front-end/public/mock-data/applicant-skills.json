@@ -1,0 +1,68 @@
+[
+  {
+    "id": "skill-001",
+    "applicant": "john.smith",
+    "skill": "JavaScript",
+    "skillLevel": "Advanced",
+    "startMonth": 1,
+    "startYear": 2019,
+    "endMonth": null,
+    "endYear": null,
+    "timeStamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "skill-002",
+    "applicant": "john.smith",
+    "skill": "React",
+    "skillLevel": "Expert",
+    "startMonth": 6,
+    "startYear": 2020,
+    "endMonth": null,
+    "endYear": null,
+    "timeStamp": "2024-01-15T10:32:00Z"
+  },
+  {
+    "id": "skill-003",
+    "applicant": "jane.doe",
+    "skill": "Python",
+    "skillLevel": "Expert",
+    "startMonth": 3,
+    "startYear": 2018,
+    "endMonth": null,
+    "endYear": null,
+    "timeStamp": "2024-01-16T14:20:00Z"
+  },
+  {
+    "id": "skill-004",
+    "applicant": "jane.doe",
+    "skill": "Machine Learning",
+    "skillLevel": "Advanced",
+    "startMonth": 9,
+    "startYear": 2020,
+    "endMonth": null,
+    "endYear": null,
+    "timeStamp": "2024-01-16T14:22:00Z"
+  },
+  {
+    "id": "skill-005",
+    "applicant": "mike.wilson",
+    "skill": "Project Management",
+    "skillLevel": "Expert",
+    "startMonth": 1,
+    "startYear": 2016,
+    "endMonth": null,
+    "endYear": null,
+    "timeStamp": "2024-01-17T09:15:00Z"
+  },
+  {
+    "id": "skill-006",
+    "applicant": "mike.wilson",
+    "skill": "Agile/Scrum",
+    "skillLevel": "Advanced",
+    "startMonth": 4,
+    "startYear": 2017,
+    "endMonth": null,
+    "endYear": null,
+    "timeStamp": "2024-01-17T09:17:00Z"
+  }
+]

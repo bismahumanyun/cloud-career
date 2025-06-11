@@ -1,0 +1,65 @@
+[
+  {
+    "id": "je-001",
+    "job": "job-001",
+    "major": "Computer Science",
+    "importance": 5,
+    "timeStamp": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "je-002",
+    "job": "job-001",
+    "major": "Software Engineering",
+    "importance": 4,
+    "timeStamp": "2024-01-10T08:05:00Z"
+  },
+  {
+    "id": "je-003",
+    "job": "job-002",
+    "major": "Data Science",
+    "importance": 5,
+    "timeStamp": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "je-004",
+    "job": "job-002",
+    "major": "Statistics",
+    "importance": 4,
+    "timeStamp": "2024-01-12T10:35:00Z"
+  },
+  {
+    "id": "je-005",
+    "job": "job-002",
+    "major": "Mathematics",
+    "importance": 3,
+    "timeStamp": "2024-01-12T10:40:00Z"
+  },
+  {
+    "id": "je-006",
+    "job": "job-003",
+    "major": "Business Administration",
+    "importance": 4,
+    "timeStamp": "2024-01-15T14:15:00Z"
+  },
+  {
+    "id": "je-007",
+    "job": "job-003",
+    "major": "Marketing",
+    "importance": 3,
+    "timeStamp": "2024-01-15T14:20:00Z"
+  },
+  {
+    "id": "je-008",
+    "job": "job-004",
+    "major": "Design",
+    "importance": 5,
+    "timeStamp": "2024-01-18T09:45:00Z"
+  },
+  {
+    "id": "je-009",
+    "job": "job-004",
+    "major": "Human-Computer Interaction",
+    "importance": 3,
+    "timeStamp": "2024-01-18T09:50:00Z"
+  }
+]

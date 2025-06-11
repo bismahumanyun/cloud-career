@@ -1,0 +1,34 @@
+[
+  {
+    "id": "job-001",
+    "company": "company-tech-corp",
+    "profileCreated": "2024-01-10T08:00:00Z",
+    "isActive": true,
+    "isCompanyHidden": false,
+    "timeStamp": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "job-002",
+    "company": "company-startup-inc",
+    "profileCreated": "2024-01-12T10:30:00Z",
+    "isActive": true,
+    "isCompanyHidden": true,
+    "timeStamp": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "job-003",
+    "company": "company-global-solutions",
+    "profileCreated": "2024-01-15T14:15:00Z",
+    "isActive": false,
+    "isCompanyHidden": false,
+    "timeStamp": "2024-01-15T14:15:00Z"
+  },
+  {
+    "id": "job-004",
+    "company": "company-innovate-labs",
+    "profileCreated": "2024-01-18T09:45:00Z",
+    "isActive": true,
+    "isCompanyHidden": false,
+    "timeStamp": "2024-01-18T09:45:00Z"
+  }
+]

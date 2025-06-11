@@ -1,0 +1,32 @@
+[
+  {
+    "id": "role-001",
+    "role": "Admin",
+    "isInactive": false,
+    "timeStamp": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "role-002",
+    "role": "Manager",
+    "isInactive": false,
+    "timeStamp": "2024-01-05T10:00:00Z"
+  },
+  {
+    "id": "role-003",
+    "role": "HR",
+    "isInactive": false,
+    "timeStamp": "2024-01-10T14:30:00Z"
+  },
+  {
+    "id": "role-004",
+    "role": "Recruiter",
+    "isInactive": false,
+    "timeStamp": "2024-01-15T09:15:00Z"
+  },
+  {
+    "id": "role-005",
+    "role": "Guest",
+    "isInactive": true,
+    "timeStamp": "2024-01-20T16:45:00Z"
+  }
+]

@@ -1,0 +1,12 @@
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.deps.json
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.pdb
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.csproj.AssemblyReference.cache
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\refint\CareerCloud.DataAccessLayer.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.pdb
+D:\00 Portfolio projects\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\ref\CareerCloud.DataAccessLayer.dll

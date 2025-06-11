@@ -1,0 +1,42 @@
+[
+  {
+    "id": "desc-001",
+    "company": "company-tech-corp",
+    "languageId": "en",
+    "companyName": "TechCorp Solutions",
+    "companyDescription": "TechCorp Solutions is a leading technology company specializing in innovative software solutions for enterprise clients. Founded in 2020, we have rapidly grown to become a trusted partner for businesses looking to digital transformation. Our team of expert developers, designers, and consultants work together to deliver cutting-edge applications, cloud infrastructure, and AI-powered solutions that drive business growth and operational efficiency.",
+    "timeStamp": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "desc-002",
+    "company": "company-tech-corp",
+    "languageId": "es",
+    "companyName": "TechCorp Soluciones",
+    "companyDescription": "TechCorp Soluciones es una empresa tecnológica líder especializada en soluciones de software innovadoras para clientes empresariales. Fundada en 2020, hemos crecido rápidamente para convertirnos en un socio de confianza para empresas que buscan transformación digital. Nuestro equipo de desarrolladores, diseñadores y consultores expertos trabajan juntos para entregar aplicaciones de vanguardia, infraestructura en la nube y soluciones impulsadas por IA.",
+    "timeStamp": "2024-01-10T08:15:00Z"
+  },
+  {
+    "id": "desc-003",
+    "company": "company-startup-inc",
+    "languageId": "en",
+    "companyName": "Startup Inc",
+    "companyDescription": "Startup Inc is a dynamic technology startup focused on developing next-generation mobile applications and web platforms. We believe in the power of technology to solve real-world problems and create meaningful experiences for users. Our agile team combines creativity with technical expertise to build products that make a difference in people's lives. Join us in our mission to innovate and disrupt traditional industries through technology.",
+    "timeStamp": "2024-01-12T10:30:00Z"
+  },
+  {
+    "id": "desc-004",
+    "company": "company-global-solutions",
+    "languageId": "en",
+    "companyName": "Global Solutions Enterprise",
+    "companyDescription": "Global Solutions Enterprise is a multinational corporation providing comprehensive business solutions across various industries. With over 20 years of experience, we offer consulting services, software development, and strategic planning to help organizations achieve their goals. Our global presence spans across 15 countries, serving clients from startups to Fortune 500 companies with tailored solutions that drive sustainable growth and competitive advantage.",
+    "timeStamp": "2024-01-15T14:15:00Z"
+  },
+  {
+    "id": "desc-005",
+    "company": "company-innovate-labs",
+    "languageId": "en",
+    "companyName": "Innovate Labs",
+    "companyDescription": "Innovate Labs is a research and development company at the forefront of emerging technologies. We specialize in artificial intelligence, machine learning, and blockchain solutions. Our mission is to push the boundaries of what's possible through innovation and scientific research. We collaborate with academic institutions, government agencies, and private companies to develop breakthrough technologies that will shape the future of various industries.",
+    "timeStamp": "2024-01-18T09:45:00Z"
+  }
+]

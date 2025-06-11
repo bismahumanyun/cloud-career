@@ -1,0 +1,44 @@
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 01\CareerCloud\NET012-1-Bisma-Humanyun-N01672555\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\Humber\N012 - C# .NET & Desktop Applications\Assignments\Assignment 2\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\00 Portfolio projects\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll
